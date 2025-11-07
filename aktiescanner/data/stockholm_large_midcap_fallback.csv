@@ -1,0 +1,143 @@
+symbol,name,segment
+AAK.ST,AAK AB,Large Cap
+ABB.ST,ABB Ltd,Large Cap
+ADDT-B.ST,Addtech AB ser. B,Large Cap
+AFRY.ST,AFRY AB,Large Cap
+ALFA.ST,Alfa Laval AB,Large Cap
+ALLEI.ST,Alleima AB,Large Cap
+ALIV-SDB.ST,Autoliv Inc. SDB,Large Cap
+ARJO-B.ST,Arjo AB ser. B,Large Cap
+ASSA-B.ST,ASSA ABLOY AB ser. B,Large Cap
+ATCO-A.ST,Atlas Copco AB ser. A,Large Cap
+ATCO-B.ST,Atlas Copco AB ser. B,Large Cap
+ATRLJ-B.ST,Atrium Ljungberg AB ser. B,Large Cap
+AXFO.ST,Axfood AB,Large Cap
+AZA.ST,Avanza Bank Holding AB,Large Cap
+AZN.ST,AstraZeneca PLC,Large Cap
+BALD-B.ST,Fastighets AB Balder ser. B,Large Cap
+BEIJ-B.ST,Beijer Ref AB ser. B,Large Cap
+BILL.ST,Billerud AB,Large Cap
+BOL.ST,Boliden AB,Large Cap
+CAST.ST,Castellum AB,Large Cap
+DOM.ST,Dometic Group AB,Large Cap
+EKTA-B.ST,Elekta AB ser. B,Large Cap
+ELUX-B.ST,AB Electrolux ser. B,Large Cap
+EMBRAC-B.ST,Embracer Group AB ser. B,Large Cap
+EPI-A.ST,Epiroc AB ser. A,Large Cap
+EPI-B.ST,Epiroc AB ser. B,Large Cap
+ERIC-B.ST,Telefonaktiebolaget LM Ericsson ser. B,Large Cap
+ESSITY-A.ST,Essity AB ser. A,Large Cap
+ESSITY-B.ST,Essity AB ser. B,Large Cap
+EQT.ST,EQT AB,Large Cap
+EVO.ST,Evolution AB,Large Cap
+FABG.ST,Fabege AB,Large Cap
+GETI-B.ST,Getinge AB ser. B,Large Cap
+HEXA-B.ST,Hexagon AB ser. B,Large Cap
+HM-B.ST,Hennes & Mauritz AB ser. B,Large Cap
+HOLM-B.ST,Holmen AB ser. B,Large Cap
+HUFV-A.ST,Hufvudstaden AB ser. A,Large Cap
+HUSQ-B.ST,Husqvarna AB ser. B,Large Cap
+INDU-A.ST,Industrivärden AB ser. A,Large Cap
+INDU-C.ST,Industrivärden AB ser. C,Large Cap
+INDT.ST,Indutrade AB,Large Cap
+INVE-A.ST,Investor AB ser. A,Large Cap
+INVE-B.ST,Investor AB ser. B,Large Cap
+KINV-B.ST,Kinnevik AB ser. B,Large Cap
+KIND-SDB.ST,Kindred Group plc SDB,Large Cap
+LATO-B.ST,Investment AB Latour ser. B,Large Cap
+LIFCO-B.ST,Lifco AB ser. B,Large Cap
+LOOMIS.ST,Loomis AB,Large Cap
+LUMI.ST,Lundin Mining Corp.,Large Cap
+LUND-B.ST,L E Lundbergföretagen AB ser. B,Large Cap
+MCOV-B.ST,Medicover AB ser. B,Large Cap
+NCC-B.ST,NCC AB ser. B,Large Cap
+NDA-SE.ST,Nordea Bank Abp,Large Cap
+NIBE-B.ST,NIBE Industrier AB ser. B,Large Cap
+NN-B.ST,Nordnet AB ser. B,Large Cap
+PEAB-B.ST,Peab AB ser. B,Large Cap
+SAGA-B.ST,AB Sagax ser. B,Large Cap
+SAGA-D.ST,AB Sagax ser. D,Large Cap
+SBB-B.ST,Samhällsbyggnadsbolaget i Norden AB ser. B,Large Cap
+SAAB-B.ST,Saab AB ser. B,Large Cap
+SAND.ST,Sandvik AB,Large Cap
+SCA-B.ST,Svenska Cellulosa SCA AB ser. B,Large Cap
+SEB-A.ST,Skandinaviska Enskilda Banken ser. A,Large Cap
+SECU-B.ST,Securitas AB ser. B,Large Cap
+SHB-A.ST,Svenska Handelsbanken ser. A,Large Cap
+SINCH.ST,Sinch AB,Large Cap
+SKF-B.ST,SKF AB ser. B,Large Cap
+SKA-B.ST,Skanska AB ser. B,Large Cap
+SOBI.ST,Swedish Orphan Biovitrum AB,Large Cap
+SSAB-A.ST,SSAB AB ser. A,Large Cap
+SSAB-B.ST,SSAB AB ser. B,Large Cap
+SWED-A.ST,Swedbank AB ser. A,Large Cap
+TEL2-B.ST,Tele2 AB ser. B,Large Cap
+TELIA.ST,Telia Company AB,Large Cap
+THULE.ST,Thule Group AB,Large Cap
+TREL-B.ST,Trelleborg AB ser. B,Large Cap
+VOLV-A.ST,Volvo AB ser. A,Large Cap
+VOLV-B.ST,Volvo AB ser. B,Large Cap
+VPLAY-B.ST,Viaplay Group AB ser. B,Large Cap
+WALL-B.ST,Wallenstam AB ser. B,Large Cap
+WIHL.ST,Wihlborgs Fastigheter AB,Large Cap
+ALIG.ST,Alimak Group AB,Mid Cap
+ANOD-B.ST,Addnode Group AB ser. B,Mid Cap
+ARISE.ST,Arise AB,Mid Cap
+BEIA-B.ST,Beijer Alma AB ser. B,Mid Cap
+BETS-B.ST,Betsson AB ser. B,Mid Cap
+BHG.ST,BHG Group AB,Mid Cap
+BOOZT.ST,Boozt AB,Mid Cap
+BRAV.ST,Bravida Holding AB,Mid Cap
+BULTEN.ST,Bulten AB,Mid Cap
+BYGMAX.ST,Byggmax Group AB,Mid Cap
+CATE.ST,Catena AB,Mid Cap
+CAT-B.ST,Catella AB ser. B,Mid Cap
+CINT.ST,Cint Group AB,Mid Cap
+CLOETTA-B.ST,Cloetta AB ser. B,Mid Cap
+CORE-B.ST,Corem Property Group AB ser. B,Mid Cap
+CORE-D.ST,Corem Property Group AB ser. D,Mid Cap
+DIOS.ST,Diös Fastigheter AB,Mid Cap
+DUST.ST,Dustin Group AB,Mid Cap
+EOLU-B.ST,Eolus Vind AB ser. B,Mid Cap
+FPAR-B.ST,Fastpartner AB ser. B,Mid Cap
+FOI-B.ST,Fenix Outdoor International AG ser. B,Mid Cap
+G5EN.ST,G5 Entertainment AB,Mid Cap
+GARO.ST,Garo AB,Mid Cap
+GRNG.ST,Gränges AB,Mid Cap
+HANZA.ST,Hanza AB,Mid Cap
+HEXPOL-B.ST,HEXPOL AB ser. B,Mid Cap
+HOIST.ST,Hoist Finance AB,Mid Cap
+INWI.ST,Inwido AB,Mid Cap
+KAMBI.ST,Kambi Group plc,Mid Cap
+KAR.ST,Karnov Group AB,Mid Cap
+KNOW.ST,Knowit AB,Mid Cap
+LAGR-B.ST,Lagercrantz Group AB ser. B,Mid Cap
+MEKO.ST,Mekonomen AB,Mid Cap
+MIPS.ST,Mips AB,Mid Cap
+MYCR.ST,Mycronic AB,Mid Cap
+NOBI.ST,Nobia AB,Mid Cap
+NPAPER.ST,Nordic Paper Holding AB,Mid Cap
+NWG.ST,Nordic Waterproofing Holding AB,Mid Cap
+NYF.ST,Nyfosa AB,Mid Cap
+ORRON.ST,Orrön Energy AB,Mid Cap
+PDX.ST,Paradox Interactive AB,Mid Cap
+PNDX-B.ST,Pandox AB ser. B,Mid Cap
+PROB.ST,Probi AB,Mid Cap
+RATO-B.ST,Ratos AB ser. B,Mid Cap
+RESURS.ST,Resurs Holding AB,Mid Cap
+SCST.ST,Scandi Standard AB,Mid Cap
+SHOT.ST,Scandic Hotels Group AB,Mid Cap
+SECT-B.ST,Sectra AB ser. B,Mid Cap
+SEYE.ST,Smart Eye AB,Mid Cap
+SF.ST,Stillfront Group AB,Mid Cap
+SKIS-B.ST,SkiStar AB ser. B,Mid Cap
+STORY-B.ST,Storytel AB ser. B,Mid Cap
+TETY.ST,Tethys Oil AB,Mid Cap
+TROAX.ST,Troax Group AB,Mid Cap
+VBG-B.ST,VBG Group AB ser. B,Mid Cap
+VESTUM.ST,Vestum AB,Mid Cap
+VITR.ST,Vitrolife AB,Mid Cap
+VIT-B.ST,Vitec Software Group AB ser. B,Mid Cap
+VNV.ST,VNV Global AB,Mid Cap
+XANO-B.ST,XANO Industri AB ser. B,Mid Cap
+ÖRES.ST,Investment AB Öresund,Mid Cap
