@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+reports/
+build/
+dist/
+*.spec
+node_modules/
+webapp/**/node_modules/
+webapp/**/dist/
+webapp/frontend/.vite/
