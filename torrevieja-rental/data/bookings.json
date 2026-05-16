@@ -1,0 +1,26 @@
+[
+  {
+    "id": "example-summer-family",
+    "checkIn": "2026-07-08",
+    "checkOut": "2026-07-15",
+    "guests": 6,
+    "guestName": "Exempelbokning",
+    "guestEmail": "demo@example.com",
+    "status": "confirmed",
+    "paymentProvider": "manual",
+    "total": 1050,
+    "createdAt": "2026-01-05T09:00:00.000Z"
+  },
+  {
+    "id": "example-autumn-break",
+    "checkIn": "2026-10-10",
+    "checkOut": "2026-10-17",
+    "guests": 4,
+    "guestName": "Exempelbokning",
+    "guestEmail": "demo@example.com",
+    "status": "confirmed",
+    "paymentProvider": "manual",
+    "total": 770,
+    "createdAt": "2026-01-05T09:00:00.000Z"
+  }
+]
